@@ -18,17 +18,20 @@
 
 </h2>
 
-### rnd_lib.py
+### [rnd_lib.py](/../../../../jeffersonfed/PythonCode/blob/main/rnd_lib.py)
 - Finding the round of decimal
 
-### mm_lib.py
+### [mm_lib.py](/../../../../jeffersonfed/PythonCode/blob/main/mm_lib.py)
 - Finding the minimum and maximum of number
 
-### avg_lib.py
+### [avg_lib.py](/../../../../jeffersonfed/PythonCode/blob/main/avg_lib.py)
 - Finding average
 
-### lib.py
+### [lib.py](/../../../../jeffersonfed/PythonCode/blob/main/lib.py)
 - To run all the 3 of the code
+```bash
+  git clone https://github.com/jeffersonfed/PythonCode.git
+```
 ```bash
   cd PythonCode
 ```
