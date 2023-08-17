@@ -1,8 +1,6 @@
 import matplotlib.pyplot as py
 import matplotlib.patches as patch 
 import matplotlib.patches as fig 
-# fig = pylab.gcf()
-# fig.canvas.set_window_title('Happy Independence Day')
                                             
 u = patch.Rectangle((0,1), width=6, height=2, facecolor="#FFFFFF", edgecolor="black")
 d = patch.Rectangle((0,3), width=6, height=2, facecolor="#ff0000", edgecolor="black")
