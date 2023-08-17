@@ -5,7 +5,7 @@ import matplotlib.patches as patch
 u = patch.Rectangle((0,1), width=6, height=2, facecolor="#FFFFFF", edgecolor="black")
 d = patch.Rectangle((0,3), width=6, height=2, facecolor="#ff0000", edgecolor="black")
 
-# for three color flags example
+# for Flags with three colors example
 
 # d = patch.Rectangle((0,1), width=10, height=2, facecolor="#ff0000", edgecolor="black")
 # d = patch.Rectangle((0,3), width=10, height=2, facecolor="#FFFFFF", edgecolor="black")
